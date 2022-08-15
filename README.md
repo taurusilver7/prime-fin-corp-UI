@@ -35,3 +35,9 @@ The `vite.config.js` confirms the programming language & the key library for bui
 The `tailwind.config.cjs` holds the predefined styles & configuration snippets for tailwindcss.
 
 Create a /constants directory to store the static texts for the application. The headings, paragraphs, and footer notes can all be modified at one spot in the constants.
+
+Create the Navbar component to hold the title, logo & the navLinks. Style & customize the styling for mobile view & other breakpoints.
+
+Create the hero component with the gradients from the pre-built styles, and imported stock files.
+
+Create a stat component to populate the the stats from the static text. 
