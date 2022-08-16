@@ -8,7 +8,7 @@ const Navbar = () => {
     <div className="w-full flex py-6 justify-between items-center navbar">
       {/* <img src={logo} alt="logo" className="w-[124px] h-[32px]" /> */}
       <h1 className="text-white font-poppins text-[24px]">
-        Prime<span className="text-secondary"> Fin-Corp</span>
+        Prim<span className="text-secondary">e Fin-Co</span>rp
       </h1>
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1 -mr-5">
