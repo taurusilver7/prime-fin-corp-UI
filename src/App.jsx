@@ -1,5 +1,5 @@
 import React from "react";
-import { Business, CardDeal, Hero, Navbar, Stats } from "./components";
+import { Billing, Business, CardDeal, Hero, Navbar, Stats } from "./components";
 import styles from "./styles";
 
 const App = () => {
@@ -21,7 +21,8 @@ const App = () => {
         <div className="xl:max-w-[1280px] w-full">
           <Stats />
           <Business />
-          component Billings Testmonials Clients CTA Footer
+          <Billing />
+          Testmonials Clients CTA Footer
           <CardDeal />
         </div>
       </div>
