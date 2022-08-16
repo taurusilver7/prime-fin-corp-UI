@@ -40,4 +40,8 @@ Create the Navbar component to hold the title, logo & the navLinks. Style & cust
 
 Create the hero component with the gradients from the pre-built styles, and imported stock files.
 
-Create a stat component to populate the the stats from the static text. 
+Create a stat component to populate the the stats from the static text.
+
+The business & billing components are `flex-col md:flex-row && flex-col-reverse md:flex-row` type of components to highlight the billing image & feature points.
+
+The CardDetail component is similar to the billing,
